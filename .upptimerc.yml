@@ -19,6 +19,16 @@ sites:
 #    url: $SECRET_SITE
    - name: Mail
      url: https://mail.tr4sh.net
+   - name: Mastodon
+     url: https://social.tr4sh.net
+   - name: Bitwarden
+     url: https://vault.tr4sh.net
+   - name: Jitsi
+     url: https://videocall.tr4sh.net
+   - name: TinyRSS
+     url: https://tiny.tr4sh.net
+   - name: Wallabag
+     url: https://wallabag.tr4sh.net
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
