@@ -22,19 +22,19 @@
     "url": "https://social.tr4sh.net",
     "icon": "https://favicons.githubusercontent.com/social.tr4sh.net",
     "slug": "mastodon",
-    "status": "down",
-    "uptime": "99.50%",
-    "uptimeDay": "97.98%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.50%",
-    "time": 2143,
-    "timeDay": 2916,
-    "timeWeek": 2143,
-    "timeMonth": 2143,
-    "timeYear": 2143,
+    "status": "up",
+    "uptime": "98.70%",
+    "uptimeDay": "94.72%",
+    "uptimeWeek": "98.70%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.70%",
+    "time": 2337,
+    "timeDay": 3110,
+    "timeWeek": 2337,
+    "timeMonth": 2337,
+    "timeYear": 2337,
     "dailyMinutesDown": {
-      "2021-01-27": 29
+      "2021-01-27": 76
     }
   },
   {
