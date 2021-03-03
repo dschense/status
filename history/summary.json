@@ -4,10 +4,10 @@
     "url": "https://mail.tr4sh.net",
     "icon": "https://favicons.githubusercontent.com/mail.tr4sh.net",
     "slug": "mail",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 873,
@@ -15,25 +15,28 @@
     "timeWeek": 755,
     "timeMonth": 844,
     "timeYear": 873,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-03": 1
+    }
   },
   {
     "name": "Mastodon",
     "url": "https://social.tr4sh.net",
     "icon": "https://favicons.githubusercontent.com/social.tr4sh.net",
     "slug": "mastodon",
-    "status": "up",
+    "status": "down",
     "uptime": "96.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "96.44%",
     "uptimeYear": "96.88%",
     "time": 2384,
     "timeDay": 931,
-    "timeWeek": 1975,
+    "timeWeek": 1554,
     "timeMonth": 2435,
     "timeYear": 2384,
     "dailyMinutesDown": {
+      "2021-03-03": 1,
       "2021-02-24": 49,
       "2021-02-23": 272,
       "2021-02-22": 358,
@@ -50,10 +53,10 @@
     "url": "https://vault.tr4sh.net",
     "icon": "https://favicons.githubusercontent.com/vault.tr4sh.net",
     "slug": "bitwarden",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 847,
@@ -61,17 +64,19 @@
     "timeWeek": 757,
     "timeMonth": 842,
     "timeYear": 847,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-03": 1
+    }
   },
   {
     "name": "Jitsi",
     "url": "https://videocall.tr4sh.net",
     "icon": "https://favicons.githubusercontent.com/videocall.tr4sh.net",
     "slug": "jitsi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 888,
@@ -79,16 +84,18 @@
     "timeWeek": 761,
     "timeMonth": 869,
     "timeYear": 888,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-03": 1
+    }
   },
   {
     "name": "TinyRSS",
     "url": "https://tiny.tr4sh.net",
     "icon": "https://favicons.githubusercontent.com/tiny.tr4sh.net",
     "slug": "tiny-rss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -97,16 +104,18 @@
     "timeWeek": 685,
     "timeMonth": 765,
     "timeYear": 756,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-03": 0
+    }
   },
   {
     "name": "Wallabag",
     "url": "https://wallabag.tr4sh.net",
     "icon": "https://favicons.githubusercontent.com/wallabag.tr4sh.net",
     "slug": "wallabag",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -115,6 +124,8 @@
     "timeWeek": 967,
     "timeMonth": 1066,
     "timeYear": 1095,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-03": 0
+    }
   }
 ]
