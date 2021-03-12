@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 846,
-    "timeDay": 748,
-    "timeWeek": 720,
-    "timeMonth": 783,
-    "timeYear": 846,
+    "time": 845,
+    "timeDay": 813,
+    "timeWeek": 732,
+    "timeMonth": 786,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2021-03-03": 17
     }
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/social.tr4sh.net",
     "slug": "mastodon",
     "status": "up",
-    "uptime": "96.41%",
-    "uptimeDay": "61.75%",
-    "uptimeWeek": "93.01%",
-    "uptimeMonth": "96.61%",
-    "uptimeYear": "96.41%",
+    "uptime": "96.43%",
+    "uptimeDay": "62.32%",
+    "uptimeWeek": "93.09%",
+    "uptimeMonth": "96.63%",
+    "uptimeYear": "96.43%",
     "time": 2317,
-    "timeDay": 2203,
-    "timeWeek": 2072,
-    "timeMonth": 2382,
+    "timeDay": 2221,
+    "timeWeek": 2101,
+    "timeMonth": 2390,
     "timeYear": 2317,
     "dailyMinutesDown": {
-      "2021-03-11": 550,
+      "2021-03-11": 542,
       "2021-03-10": 154,
       "2021-03-03": 17,
       "2021-02-24": 49,
@@ -61,11 +61,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 851,
-    "timeDay": 2917,
-    "timeWeek": 951,
-    "timeMonth": 841,
-    "timeYear": 851,
+    "time": 847,
+    "timeDay": 655,
+    "timeWeek": 943,
+    "timeMonth": 842,
+    "timeYear": 847,
     "dailyMinutesDown": {
       "2021-03-03": 17
     }
@@ -81,11 +81,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 959,
-    "timeDay": 5240,
-    "timeWeek": 1445,
-    "timeMonth": 968,
-    "timeYear": 959,
+    "time": 952,
+    "timeDay": 579,
+    "timeWeek": 1429,
+    "timeMonth": 958,
+    "timeYear": 952,
     "dailyMinutesDown": {
       "2021-03-03": 17
     }
@@ -101,11 +101,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 806,
-    "timeDay": 4183,
-    "timeWeek": 1123,
-    "timeMonth": 846,
-    "timeYear": 806,
+    "time": 804,
+    "timeDay": 709,
+    "timeWeek": 1128,
+    "timeMonth": 842,
+    "timeYear": 804,
     "dailyMinutesDown": {
       "2021-03-03": 16
     }
@@ -121,11 +121,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
-    "time": 1058,
-    "timeDay": 863,
-    "timeWeek": 902,
-    "timeMonth": 996,
-    "timeYear": 1058,
+    "time": 1053,
+    "timeDay": 804,
+    "timeWeek": 877,
+    "timeMonth": 988,
+    "timeYear": 1053,
     "dailyMinutesDown": {
       "2021-03-03": 16
     }
